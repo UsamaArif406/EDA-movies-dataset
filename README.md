@@ -7,19 +7,27 @@ Data Exploration & Visualization:
 
 Perform exploratory data analysis (EDA) with various options like histograms, box plots, violin plots, and correlation heatmaps.
 Visualize data distributions and relationships using Seaborn and Matplotlib.
-Box Office Analysis:
+
+### Box Office Analysis:
 
 Filter movies by genre and year to discover which genres perform best at the box office.
+
 Dynamic visualizations powered by Altair provide clear insights into trends over time.
+
 Interactive Editing:
 
 Edit the data live within the app using an editable DataFrame, making it easy to experiment with different scenarios and data points.
 
 ## 🛠️ Tools Used
+
 Streamlit: For creating an interactive web app interface.
+
 Pandas: For data manipulation and analysis.
+
 Seaborn & Matplotlib: For creating static data visualizations.
+
 Altair: For interactive and dynamic charting.
+
 NumPy: For numerical operations and data handling.
 
 ## 📂 Project Structure
