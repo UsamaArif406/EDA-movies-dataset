@@ -24,5 +24,7 @@ NumPy: For numerical operations and data handling.
 
 ## 📂 Project Structure
 app.py: Main application file containing the Streamlit app logic.
+
 movies_genres_summary.csv: The dataset used in the project, containing movie genres, years, and box office earnings.
+
 README.md: This file, providing an overview of the project.
